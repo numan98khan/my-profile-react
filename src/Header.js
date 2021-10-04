@@ -5,7 +5,7 @@ const Header = () => {
     
     return(
         <Jumbotron>
-            <h1>Bhargav Bachina</h1>
+            <h1>Muhammad Nauman</h1>
             <p>I am Software Architect working on various technologies and trying to solve problems.</p>
         </Jumbotron>
     )
